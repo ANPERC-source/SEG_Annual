@@ -1,0 +1,87 @@
+#	Country name			Total number of publications
+1	United States of America					5154.07
+2	China					1649.95
+3	Canada					952.47
+4	Netherlands					608.58
+5	France					546.53
+6	United Kingdom of Great Britain and Nothern Ireland					462.14
+7	Germany					330.39
+8	Australia					302.54
+9	Brazil					264.0
+10	Japan					205.62
+11	Russian Federation					178.75
+12	Norway					176.36
+13	Italy					164.11
+14	Saudi Arabia					145.46
+15	Korea, Republic of					138.62
+16	Switzerland					113.01
+17	India					99.08
+18	Mexico					62.15
+19	Denmark					57.58
+20	Israel					55.69
+21	Taiwan					49.44
+22	Sweden					41.45
+23	Unknown academia					37.2
+24	Venezuela (Bolivarian Republic of)					28.01
+25	Argentina					25.78
+26	South Africa					24.53
+27	Nigeria					23.96
+28	United Arab Emirates					19.75
+29	Czechia					19.34
+30	Spain					17.86
+31	Egypt					16.52
+32	Singapore					14.98
+33	New Zealand					14.77
+34	Romania					13.7
+35	Indonesia					13.42
+36	Malaysia					12.66
+37	Greece					12.06
+38	Portugal					11.74
+39	Ukraine					11.08
+40	Colombia					10.25
+41	Finland					9.8
+42	Austria					6.92
+43	Iran					6.78
+44	Belgium					5.43
+45	Slovakia					5.35
+46	Ireland					5.26
+47	Poland					5.22
+48	Turkey					5.2
+49	Serbia					4.5
+50	Thailand					4.34
+51	Jamaica					4.32
+52	Algeria					3.39
+53	Ghana					2.25
+54	Hungary					2.12
+55	Kenya					2.02
+56	Morocco					2.0
+57	Burkina Faso					1.87
+58	Namibia					1.78
+59	Pakistan					1.75
+60	Oman					1.68
+61	Cameroon					1.39
+62	Iceland					1.31
+63	Ethiopia					0.93
+64	Tunisia					0.91
+65	Uganda					0.87
+66	Iraq					0.86
+67	Peru					0.86
+68	Latvia					0.85
+69	Brunei Darussalam					0.7
+70	Puerto Rico					0.68
+71	Bangladesh					0.65
+72	Bulgaria					0.63
+73	Qatar					0.57
+74	Kuwait					0.56
+75	Kazakhstan					0.44
+76	Azerbaijan					0.37
+77	Chile					0.32
+78	Mongolia					0.32
+79	Viet Nam					0.29
+80	Malta					0.29
+81	Lebanon					0.29
+82	Djibouti					0.28
+83	Bosnia and Herzegovina					0.28
+84	Sri Lanka					0.27
+85	Lao People's Democratic Republic					0.27
+86	Haiti					0.27
