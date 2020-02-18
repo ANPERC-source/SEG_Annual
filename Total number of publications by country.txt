@@ -4,7 +4,7 @@
 3	Canada					952.47
 4	Netherlands					608.58
 5	France					546.53
-6	United Kingdom of Great Britain and Nothern Ireland					462.14
+6	United Kingdom of Great Britain and Northern Ireland					462.14
 7	Germany					330.39
 8	Australia					302.54
 9	Brazil					264.0
